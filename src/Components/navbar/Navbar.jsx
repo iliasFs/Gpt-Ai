@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./navbar.css";
 import { RiMenu3Line, RiCloseLin, RiCloseLine } from "react-icons/ri";
-import logo from "../../assets/logo.svg";
+import logo from "../../assets/logo.png";
 
 const Menu = () => {
   return (
@@ -10,7 +10,7 @@ const Menu = () => {
         <a href="#home">Home</a>
       </p>
       <p>
-        <a href="#wgpt">What is GPT-Ai?</a>
+        <a href="#wgpt">What is GPT?</a>
       </p>
       <p>
         <a href="#possibility">Open Ai</a>
